@@ -1,5 +1,5 @@
 # Project-Create-and-Mint-Token
-This Solidity smart contract, "ThisToken," is an ERC20-compliant token with additional functionality for the owner to mint tokens and for any user to check their token name, token symbol, balance, transfer, and burn tokens. 
+This Solidity smart contract contains "ThisToken," is an ERC20-compliant token with additional functionality for the owner to mint tokens and for any user to check their token name, token symbol, balance, transfer, and burn tokens. 
 # Description
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain.  The contract has three functions called mintTokens, transfer and burnTokens. The mint function adds an indicated value to the corresponding total supplies of the specified token and adds that value to the balance associated with the Ethereum addresses. The burn function allows any user to burn tokens and operates the opposite way, where it deducts an indicated value to the corresponding total supplies of the specified token as well as deducts that value to the associated Ethereum addresses balance. The transfer function allows any user to transfer tokens from their balance to another specified address
 ## Getting Started
